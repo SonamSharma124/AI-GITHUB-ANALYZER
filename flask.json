@@ -1,0 +1,37 @@
+{
+    "framework": "Python (Flask/Django)",
+    "project_type": "Software Project",
+    "summary": "Repository analyzed successfully.",
+    "insights": [
+        "Code analyzed"
+    ],
+    "score": 75,
+    "quality": "Good",
+    "health": "Stable",
+    "language_percentages": {
+        "": 7,
+        ".yaml": 7,
+        ".rst": 79,
+        ".txt": 10,
+        ".toml": 5,
+        ".md": 6,
+        ".lock": 1,
+        ".json": 2,
+        ".sh": 1,
+        ".yml": 1,
+        ".py": 83,
+        ".bat": 1,
+        ".png": 5,
+        ".svg": 3,
+        ".html": 20,
+        ".sql": 2,
+        ".css": 2,
+        ".typed": 1
+    },
+    "repo_stats": {
+        "total_files": 236,
+        "total_folders": 51,
+        "total_lines": 39585
+    },
+    "language_chart": "chart.png"
+}
